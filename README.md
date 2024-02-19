@@ -1,1 +1,1 @@
-# Analysis-of-Waste-Recycling-in-Hong-Kong-with-Python
+This project aims to propose more possible or practical waste recycling points setting methods, assisting the government to increase the overall recycling rate, by exploring the population data and the distribution of recyclable collection points in different dirtricts of Hong Kong.
